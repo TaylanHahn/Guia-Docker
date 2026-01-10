@@ -1,4 +1,4 @@
-# 🐳 1. Conceitos Fundamentais: A Analogia Java ☕  
+# 1. Conceitos Fundamentais 🐳
 
 Para um desenvolvedor **Java**, a melhor forma de entender **Docker** é através da **Programação Orientada a Objetos (POO)** 🧠:
 
