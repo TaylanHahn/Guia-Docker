@@ -1,4 +1,4 @@
-## DOCKER <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="45" />
+## <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="45" /> DOCKER 
 
 ### 1. Conceitos Fundamentais 🐳
 
