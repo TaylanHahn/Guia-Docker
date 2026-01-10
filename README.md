@@ -1,4 +1,4 @@
-# 1. Conceitos Fundamentais 🐳
+## 1. Conceitos Fundamentais 🐳
 
 Para um desenvolvedor **Java**, a melhor forma de entender **Docker** é através da **Programação Orientada a Objetos (POO)** 🧠:
 
@@ -18,7 +18,7 @@ Para um desenvolvedor **Java**, a melhor forma de entender **Docker** é atravé
 
 ---
 
-# 🛠️ 2. O Dockerfile: Criando a Imagem Java Perfeita ☕🐳  
+## 🛠️ 2. O Dockerfile: Criando a Imagem Java Perfeita ☕🐳  
 
 A prática moderna exige o uso de **Multi-Stage Builds** 🧩.  
 Isso evita que o código fonte e as ferramentas de build (**Maven/Gradle**) fiquem na imagem final de produção, reduzindo o tamanho de **800MB+ ➜ ~150MB** 📉.
@@ -28,7 +28,7 @@ Uma aplicação **Spring Boot** 🌱 simples.
 
 ---
 
-## 🧪 Exemplo de Dockerfile (Multi-Stage)
+**🧪 Exemplo de Dockerfile (Multi-Stage)**
 
 ```dockerfile
 # --- 🏗️ Estágio 1: Build (Compilação) ---
