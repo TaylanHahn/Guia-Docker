@@ -1,4 +1,4 @@
-# DOCKER <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="18" />
+# DOCKER <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="32" />
 ## 1. Conceitos Fundamentais 🐳
 
 Para um desenvolvedor **Java**, a melhor forma de entender **Docker** é através da **Programação Orientada a Objetos (POO)** 🧠:
