@@ -28,7 +28,6 @@ Isso evita que o código fonte e as ferramentas de build (**Maven/Gradle**) fiqu
 ### 🎯 Cenário  
 Uma aplicação **Spring Boot** 🌱 simples.
 
----
 
 **🧪 Exemplo de Dockerfile (Multi-Stage)**
 
